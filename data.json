@@ -1,0 +1,89 @@
+[
+    {
+        "id": "b848a959-5063-448d-8737-9430af608ab9",
+        "name": "Android 16",
+        "description": "",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/android_16.png",
+        "abilities": [
+        ]
+    },
+    {
+        "id": "389393e2-1174-4768-aee8-fa8e365b2b6c",
+        "name": "Android 17",
+        "description": "",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/android_17.jpg",
+        "abilities": [
+        ]
+    },
+    {
+        "id": "64f96e55-9580-4fd9-ac13-30f3c2b6279b",
+        "name": "Android 18",
+        "description": "",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/android_18.png",
+        "abilities": [
+        ]
+    },
+    {
+        "id": "b73a680d-5933-46ad-b0ef-f682e1249f2e",
+        "name": "Android 19",
+        "description": "",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/android_19.png",
+        "abilities": [
+        ]
+    },
+    {
+        "id": "dd488318-7eb9-4c5f-a68a-909a28d707cc",
+        "name": "Android 21",
+        "description": "",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/android_21.png",
+        "abilities": [
+        ]
+    },
+    {
+        "id": "59d84a93-5f73-4491-b8aa-1e9093cef3740",
+        "name": "Goku",
+        "description": "is a Saiyan male originally sent to destroy Earth as an infant",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/son-goku.jpg",
+        "abilities": [
+            "Flight", "Kamehameha", "Kaio-ken", "Spirit Bomb", "Instant Transmission", 
+            "Dragon Fist", "Evil Containment Wave"
+        ]
+    },
+    {
+        "id": "fbf28e35-74c9-4405-8fe1-fdcf1bdf4fb3",
+        "name": "Gohan",
+        "description": "is a half-breed Saiyan and son of Goku",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/gohan.png",
+        "abilities": [
+            "Flight", "Ki Sense", "Hidden Potential ", "Saiyan Power", "Masenko", 
+            "Kamehameha", "Menacing Flare "
+        ]
+    },
+    {
+        "id": "46afc4f7-fbd5-456a-8491-89c52ef44d9e",
+        "name": "Porunga",
+        "description": "is the wish-granting dragon from Planet Namek",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/porunga.png",
+        "abilities": [
+            "Resurrection", "Teleportation", "Healing", "Fission", "Drawing out Dormant Power"
+        ]
+    },
+    {
+        "id": "ad3c6c12-eb89-425a-9f12-fb57b19db1a0",
+        "name": "Piccolo",
+        "description": "is a Namekian and also the final child and reincarnation of King Piccolo",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/piccolo.png",
+        "abilities": [
+            "Flight", "Regeneration", "Healing", "Ki Sense", "Explosive Demon Wave"
+        ]
+    },
+    {
+        "id": "2ddf7aa6-e930-4882-b19c-dead59708efd",
+        "name": "Vegeta",
+        "description": "is the prince of the fallen Saiyan race",
+        "img": "https://raw.githubusercontent.com/keuller/dragonball/main/images/vegeta.png",
+        "abilities": [
+            "Galick Gun", "Lucora Gun", "Big Bang Attack", "Final Flash", "Gamma Burst Flash"
+        ]
+    }
+]
